@@ -1,0 +1,16 @@
+# Cache
+.cache/
+
+# Dependency
+node_modules/
+
+# IDE
+.vscode/
+
+# Log
+logs/
+*.log
+npm-debug.log*
+
+# OSX
+.DS_Store
